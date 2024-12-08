@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Moneda de oro 50 zł - 1948",
+      "price": 500,
+      "image": "https://images.unsplash.com/photo-1610375461246-83df859d849d",
+      "category": "Monedas de Oro",
+      "description": "Moneda histórica de oro polaca en excelente estado de conservación",
+      "condition": "used",
+      "shipping": {
+        "free": true,
+        "express": true
+      },
+      "installments": {
+        "months": 12,
+        "amount": 41.67
+      },
+      "seller": {
+        "name": "Numismática Premium",
+        "rating": 4.8,
+        "sales": 1250
+      }
+    },
+    {
+      "id": 2,
+      "title": "Colección Monedas Antiguas",
+      "price": 750,
+      "image": "https://images.unsplash.com/photo-1605792657660-596af9009e82",
+      "category": "Colecciones",
+      "description": "Set completo de monedas antiguas del siglo XIX",
+      "condition": "used",
+      "shipping": {
+        "free": true,
+        "express": false
+      },
+      "installments": {
+        "months": 6,
+        "amount": 125
+      },
+      "seller": {
+        "name": "Coleccionistas Unidos",
+        "rating": 4.9,
+        "sales": 3420
+      }
+    },
+    {
+      "id": 3,
+      "title": "Moneda de Plata Conmemorativa",
+      "price": 250,
+      "image": "https://images.unsplash.com/photo-1621847468516-1ed5d0df56e8",
+      "category": "Monedas de Plata",
+      "description": "Edición limitada conmemorativa del bicentenario",
+      "condition": "new",
+      "shipping": {
+        "free": false,
+        "express": true
+      },
+      "seller": {
+        "name": "Casa de Moneda Oficial",
+        "rating": 5.0,
+        "sales": 8750
+      }
+    },
+    {
+      "id": 4,
+      "title": "Set Numismático Premium",
+      "price": 1200,
+      "image": "https://images.unsplash.com/photo-1621847468179-72d45861f373",
+      "category": "Colecciones",
+      "description": "Colección premium con certificado de autenticidad",
+      "condition": "new",
+      "shipping": {
+        "free": true,
+        "express": true
+      },
+      "installments": {
+        "months": 12,
+        "amount": 100
+      },
+      "seller": {
+        "name": "Numismática Premium",
+        "rating": 4.8,
+        "sales": 1250
+      }
+    },
+    {
+      "id": 5,
+      "title": "Moneda Romana Antigua",
+      "price": 3000,
+      "image": "https://images.unsplash.com/photo-1620662736427-b8a198f52a4d",
+      "category": "Monedas Antiguas",
+      "description": "Moneda romana auténtica del siglo III",
+      "condition": "used",
+      "shipping": {
+        "free": true,
+        "express": true
+      },
+      "installments": {
+        "months": 12,
+        "amount": 250
+      },
+      "seller": {
+        "name": "Antigüedades Selectas",
+        "rating": 4.7,
+        "sales": 890
+      }
+    },
+    {
+      "id": 6,
+      "title": "Moneda de Platino Proof",
+      "price": 2500,
+      "image": "https://images.unsplash.com/photo-1621847468868-51c8ac49fb4b",
+      "category": "Monedas Premium",
+      "description": "Moneda proof de platino de alta pureza",
+      "condition": "new",
+      "shipping": {
+        "free": true,
+        "express": true
+      },
+      "installments": {
+        "months": 12,
+        "amount": 208.33
+      },
+      "seller": {
+        "name": "Casa de Moneda Oficial",
+        "rating": 5.0,
+        "sales": 8750
+      }
+    }
+  ]
+}
